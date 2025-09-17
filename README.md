@@ -18,13 +18,6 @@ km (int): quilometragem rodada
 Método principal
 O método exibirAnuncio() serve para imprimir os detalhes do carro formatados, simulando um anúncio para venda. Pode ser chamado quantas vezes for necessário para exibir as informações do objeto.
 
-java
-void exibirAnuncio() {
-    System.out.println("=====Carro a venda=====");
-    System.out.println("Marca: " + marca + "/" + modelo);
-    System.out.println("Ano: " + ano + " + km: " + km );
-    System.out.println("Preco R$: " + preco );
-}
 Objetivos do Projeto
 Entender o conceito de abstração na POO.
 
